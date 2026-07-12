@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "static-nomad-502108-k0",
+  "private_key_id": "1918fa3a7960d102ff2267190b0f1c6f1e5b77b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXoZr2PpgdZzfV\nhnQe/j4bkkZY1a5RSHiQwUf/NJ0s2ELClEZnS2RlX3NZivljHMLa/CI7ELcxEa/3\nEKuAcQAHhUp2FZsjY5WWc8YhgYgGDnQUYVjn0bachcfaOGyRi+u6NeKn9/G+EhU9\n/ynmbIusmJlHNWn59OgMeVRSNpVsHzyoJLe6fw6VMDlKf9ROatODh5CJoodau29y\nMOZbGYczZGntkGjHd8ljTZ+3MEwpyhAXg1MR/mIMgG85C9C/MmjhQm/3Y427f0uF\nbxjzJNgBlxIemVd15NkHa4Gv5Fey08PAnubZZKZeIi8QAgB9Wze2dJIBUAR0gXsH\nv9jEkmSZAgMBAAECggEAWnEN7fqTEsIYSRb73YQFyMqxdtEpLC6ZYx2udPw8cHLE\njZhjby/QDDTczNHdiBSoJfFa6is4qvwgMiBrzpOWz5C4io7FYzKBq3kjwSnzQ5cM\nWP/7qj/rt/rkuEKyRtnJJXE0f/8fBfnPrxE3Ic6lRt86awOcT5rJOXIqS9FZGt+6\nBWqaca7n+8mssbb8AT3HAQ5ZjZKT/APEk+gTCuqWoeDOUYHm9NlLMuzX2Ak2OYmu\nXOjU3D4Yv0cQtDH5m6IBDhiKGWoE6zh61EaVsrNpvI3BrlE2ynrLtRZ29xdsja7I\nhkQHYG/q0VDfw4Xsu8Zsf597ktc7aTYFqMtR2wUPgQKBgQDxtsZndECtQBlWU7fl\n89EtySvt4z7J3pLcEtyoCvgDB7YOowFN0RGaq7D1DceEs2WZNyr1N7YbH1p2e12/\nyXhlSECbqO7EQAOfHCXSxkECJU54UT8zi7+1vb5VWRpBtBusI2Q5NIrCRcZ3uYDb\nRZA10SRhEXMngD9XuxW5wnb8XwKBgQDkYDBrbcsa5lvyzVJiDvX1AyyZJrlB9+n8\nWnFifqTt2hpjKtFWDolZOG5fg9lMWq1n6fa/jmiQ3Cmyc77sxck+dLVPhRrM3F04\nEHZ6/NLhofNiG9qKLQk3G3aF6sWU54RT6pkGHVUqtvIOxB+Kh3v0bbH8nNZ40KGq\nBBZaQV9CBwKBgFcCKyM8Zre2tigsFKuS+75Whxinz4dNNmI/6+wVnrdAhFl6ddK0\nKnkZyqY7opFzHmRrxmvk9QmIXMD/oXyTImKbAp7FzcUZIfSZZkgcE3SZR0jqPizo\n5kaembARVfFGyxtI1h/9eOF7ynh4bxj/Tm0A7u5+IIycjrCe6LAofzpTAoGBANaJ\nvjLNm6WTjgFT/PZ9U3VuG/FrvVFJkhgs5qM+kbWX1H4gdTNAyKp2Jsm31OSzsn8R\n/WkKYRTkno8zyMIpM9pmTQV85yZYRYIrhQIYjArG1xrtS6nOkP+h3wADAsXVkCw9\nEK/70kwkPNS+TVsX18xRWIkU1S394EEVQeJb0x71AoGBAKhUq+Ivbmx3UeqxN4N3\nvLXrXHAJ2qQCOidvqwkkg+acB5yOvAXJhmiETQx98nQbX5dT2+mpy5wboMhmhwTP\nqRqtVyiHnUZId9MmbKLk1fZfP7ZZKq7ulfU4UdF2QnGM0PqoB5OD3PXGd5i98ikM\n3zATZby1TZWKqewEQUnaX2ky\n-----END PRIVATE KEY-----\n",
+  "client_email": "depo-envanter@static-nomad-502108-k0.iam.gserviceaccount.com",
+  "client_id": "114237437921415633742",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/depo-envanter%40static-nomad-502108-k0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
